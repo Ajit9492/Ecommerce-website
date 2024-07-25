@@ -11,6 +11,10 @@
 - React Icons,REST APIS ,JWT
 
 ## 📸 Screenshots
+<img src="D:\E-Commerce\ProjectImages\Adminpage.png" width='800' height='auto'>
+<br>
+<img src="./frontend/src/assests/mern-food-delivery-app.herokuapp.com_.png" width='800' height='auto'>
+<br>
 
 ## Home Page
 
